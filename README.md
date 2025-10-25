@@ -227,18 +227,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Dataset Sources**: Sleep Health and Lifestyle Dataset (Kaggle), Sleep Efficiency Dataset (UCI ML Repo)
 - **Libraries**: scikit-learn, Flask, Chart.js, Font Awesome
 - **Design Inspiration**: Modern sleep tracking applications and health analytics platforms
-## 🖥️ Output
 
-![Output 1](images/image.png)
-![Output 2](images/image-1.png)
-![Output 3](images/image-2.png)
-![Output 4](images/image-3.png)
-![Output 5](images/image-4.png)
 
 
 **Sleep Quality Predictor** - Transforming sleep health through AI and machine learning. 🌙✨
 
 *Built with ❤️ for better sleep and healthier lives.*
+
 
 
 
