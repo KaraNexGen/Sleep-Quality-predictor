@@ -228,15 +228,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Libraries**: scikit-learn, Flask, Chart.js, Font Awesome
 - **Design Inspiration**: Modern sleep tracking applications and health analytics platforms
 
-## 📞 Support
+## 🖥️ Output
 
-For questions, issues, or feature requests:
-- Create an issue on GitHub
-- Contact the development team
-- Check the documentation wiki
-
----
+![Sleep Quality Predictor Output](<img width="913" height="860" alt="image" src="https://github.com/user-attachments/assets/f268f2fb-8414-453e-9544-d4211019521c" />
+)
 
 **Sleep Quality Predictor** - Transforming sleep health through AI and machine learning. 🌙✨
 
 *Built with ❤️ for better sleep and healthier lives.*
+
