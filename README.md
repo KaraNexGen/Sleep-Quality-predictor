@@ -229,15 +229,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Design Inspiration**: Modern sleep tracking applications and health analytics platforms
 ## 🖥️ Output
 
-![Sleep Quality Predictor Output](D:\Sleep Quality predictor\image.png)
-![Sleep Quality Predictor Output](D:\Sleep Quality predictor\image-1.png)
-![Sleep Quality Predictor Output](D:\Sleep Quality predictor\image-2.png)
-![Sleep Quality Predictor Output](D:\Sleep Quality predictor\image-3.png)
-![Sleep Quality Predictor Output](D:\Sleep Quality predictor\image-4.png)
+![Output 1](images/image.png)
+![Output 2](images/image-1.png)
+![Output 3](images/image-2.png)
+![Output 4](images/image-3.png)
+![Output 5](images/image-4.png)
 
 
 **Sleep Quality Predictor** - Transforming sleep health through AI and machine learning. 🌙✨
 
 *Built with ❤️ for better sleep and healthier lives.*
+
 
 
